@@ -1,0 +1,7 @@
+{
+	"files": ["app.ts", "lib/typescriptServices.d.ts", "typings/tsd.d.ts"],
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"module": "commonjs"
+	}
+}
